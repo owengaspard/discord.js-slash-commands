@@ -1,4 +1,4 @@
-# discord.py-slash-commands
+# Discord.js TypeScript Commands Example
 This bot is written in TypeScript and shows you how to add commands which integrate directly with Discord's command list.
 
 ## Prerequisites
